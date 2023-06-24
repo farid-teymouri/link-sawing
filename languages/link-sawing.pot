@@ -1,0 +1,1532 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-27 22:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+
+
+#: includes/core/link-sawing-third-parties.php:383
+msgid "\"Custom Permalinks\" URIs were imported!"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:206
+msgid "\"Exclude content types\" strict mode"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:189
+msgid "\"Primary category\" support"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:146
+msgid "\"Stop words\" list"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:147
+#, php-format
+msgid "%d Custom URIs and %d Custom Redirects were removed!"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:550
+#, php-format
+msgid "%s were removed!"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:117
+msgid "(Removed post)"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:105
+msgid "(Removed term)"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:127
+msgid "-- Use predefined words list --"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:142
+msgid "301 redirect"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:142
+msgid "302 redirect"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:777
+#, php-format
+msgid "<a %s>Click here</a> to go to the list of updated slugs"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:776
+#, php-format
+msgid "<strong class=\"updated_count\">%d</strong> slug was updated!"
+msgid_plural "<strong class=\"updated_count\">%d</strong> slugs were updated!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/views/link-sawing-tools.php:55
+msgid ""
+"<strong>A MySQL backup is highly recommended before using \"<em>Native "
+"slugs</em>\" mode!</strong>"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:89
+msgid ""
+"<strong>Canonical redirect allows WordPress to \"correct\" the requested URL "
+"and redirect visitor to the canonical permalink.</strong>"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:594
+msgid "<strong>No post status</strong> selected!"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:588
+msgid "<strong>No post type</strong> selected!"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:562
+#: includes/core/link-sawing-admin-functions.php:781
+msgid "<strong>No slugs</strong> were updated!"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:580
+msgid "<strong>No taxonomy</strong> selected!"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:102
+msgid ""
+"<strong>Old slug redirect is used by WordPress to provide a fallback for old "
+"version of slugs after they are changed.</strong>"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:57
+msgid ""
+"<strong>Link Sawing can use either native slugs or actual titles for "
+"custom permalinks.</strong>"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:283
+msgid ""
+"<strong>Please use full URLs!</strong><br />For instance, <code>http:"
+"//another-website.com/final-target-url</code>."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:268
+#, php-format
+msgid ""
+"<strong>Please use URIs only!</strong><br />For instance, to set-up a "
+"redirect for <code>%s/old-uri</code> please use <code>old-uri</code>."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:136
+msgid ""
+"<strong>You can use Link Sawing to force SSL or \"www\" prefix in "
+"WordPress permalinks.</strong>"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:264
+msgid "Add new redirect"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:132
+msgid "Add the words from the list"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:63
+msgid "Add trailing slashes"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:231
+msgid "Administrator (edit_theme_options)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Advanced plugin that allows to set up custom permalinks (bulk editors "
+"included), slugs and permastructures (WooCommerce compatible)."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:196
+msgid "Advanced settings"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:50
+msgid ""
+"After a post/term is updated, Link Sawing can automatically update its "
+"custom permalink to follow the default format set in Permastructure settings."
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:136
+#, php-format
+msgid ""
+"All allowed <a href=\"%s\" target=\"_blank\">permastructure tags</a> are "
+"listed below. Please note that some of them can be used only for particular "
+"post types or taxonomies."
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-post.php:183
+msgid "All dates"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:249
+msgid ""
+"All URIs specified below will redirect the visitors to the custom URI "
+"defined above in \"Current URI\" field."
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor.php:91
+msgid "Apply"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:257
+msgid "Arabic"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:136
+msgid "Are you sure? This action cannot be undone!"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:83
+msgid "Array with external redirects"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:90
+msgid "Array with permastructures"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:76
+msgid "Array with redirects"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:97
+msgid "Array with settings used in this plugin."
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:69
+msgid "Array with URIs"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:231
+msgid "Author (publish_posts)"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:907
+#: includes/core/link-sawing-admin-functions.php:919
+msgid "Auto-update \"Current URI\""
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:49
+msgid "Auto-update permalinks"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:978
+msgid "Automatic redirect for native URI enabled:"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:236
+msgid "Automatically fix broken URIs"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:183
+msgid "Breadcrumbs support"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:364
+msgid "Broken redirects were removed successfully!"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:238
+msgid "Bulk fix all URIs (once a day, in the background)"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:187
+msgid "Buy Link Sawing Pro"
+msgstr ""
+
+
+
+#: includes/views/link-sawing-settings.php:87
+msgid "Canonical redirect"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:258
+msgid "Chinese"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:50
+msgid ""
+"Choose the last option if you wish to use the native permalinks rather than "
+"generate custom permalinks whenever a new post or term is added."
+msgstr ""
+
+#: includes/core/link-sawing-uri-functions-tax.php:561
+msgid "Clear/leave the field empty to use the default permalink."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:935
+msgid "Close: "
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:132
+msgid "Congratulations! No duplicated URIs or Redirects found!"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:231
+msgid "Contributor (edit_posts)"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:223
+msgid "Convert accented letters"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:59
+msgid "Count"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:622
+msgid "Coupon Full URL"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:586
+msgid "Coupon Link"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:610
+msgid "Coupon URI"
+msgstr ""
+
+#: includes/core/link-sawing-uri-functions-post.php:771
+#: includes/core/link-sawing-uri-functions-tax.php:594
+#: includes/core/link-sawing-admin-functions.php:826
+#: includes/core/link-sawing-admin-functions.php:953
+msgid "Current URI"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:40
+#: includes/views/link-sawing-pro-addons.php:185
+msgid "Custom Permalinks"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:521
+msgid "Custom permalinks"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:57
+#, php-format
+msgid ""
+"Custom permalinks count: <strong>%s</strong> | Custom permalinks array size "
+"in DB: <strong>%s</strong>"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:525
+msgid "Custom redirects"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:91
+#: includes/core/link-sawing-third-parties.php:550
+#: includes/core/link-sawing-third-parties.php:1020
+#: includes/core/link-sawing-uri-functions-tax.php:560
+msgid "Custom URI"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:167
+msgid "Custom URIs"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:259
+msgid "Danish"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:186
+msgid "Deactivate after import"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:21
+msgid "Debug"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:64
+msgid "Debug data"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:438
+msgid "Default permastructure"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:971
+msgid "Default URI"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:156
+msgid "Disable"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:142
+msgid "Disable (Link Sawing redirect functions)"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:441
+msgid "Do not automatically append the slug"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:75
+msgid "Do not exclude"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:183
+msgid "Documentation"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:911
+#: includes/core/link-sawing-admin-functions.php:917
+msgid "Don't auto-update \"Current URI\""
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:918
+msgid ""
+"Don't auto-update \"Current URI\" and exclude from the \"Regenerate/reset\" "
+"tool"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:49
+msgid "Don't auto-update permalinks (default mode)"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:909
+msgid "Don't save/generate custom permalinks"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:921
+msgid "Don't save/generate custom permalinks (disallow further URI changes)"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:49
+msgid "Don't save/generate custom permalinks for new items"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:260
+msgid "Dutch"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:160
+msgid ""
+"Each of the words can be removed and any new words can be added to the list. "
+"You can also use a predefined list (available in 21 languages)."
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:103
+#: includes/views/link-sawing-uri-editor-post.php:141
+#: includes/views/link-sawing-uri-editor-post.php:141
+msgid "Edit"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:114
+msgid "Edit post"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:102
+msgid "Edit term"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:231
+msgid "Editor (publish_pages)"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:140
+msgid "Enable \"stop words\""
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:239
+msgid ""
+"Enable this option if you would like to automatically remove redundant "
+"permalinks & duplicated redirects."
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:261
+msgid "English"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:130
+msgid ""
+"Example: <em>https://example.com/product/old-product-url/<strong>?discount-"
+"code=blackfriday</strong></em> => <em>https://example.com/new-product-"
+"url/<strong>?discount-code=blackfriday</strong></em>"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:68
+msgid "Exclude content types"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:75
+msgid "Exclude drafts"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:74
+#: includes/views/link-sawing-settings.php:75
+msgid "Exclude drafts & pending posts"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:194
+msgid ""
+"Expiration date could not be downloaded at this moment. Please try again in "
+"a few minutes."
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:529
+msgid "External redirects"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:91
+msgid "Extra Redirect"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:106
+#: includes/views/link-sawing-pro-addons.php:249
+msgid "Extra redirects (aliases)"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-post.php:192
+msgid "Filter"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:28
+msgid "Find & Replace"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:151
+msgid "Find ..."
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:226
+msgid "Find and replace"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:262
+msgid "Finnish"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:76
+msgid "Fix custom permalinks & redirects"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:238
+msgid "Fix URIs individually (during page load)"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:211
+msgid "Force 404 on non-existing pagination pages"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:134
+msgid "Force HTTPS/WWW"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:263
+msgid "French"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:58
+#: includes/views/link-sawing-uri-editor-post.php:63
+msgid "Full URI & Permalink"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:41
+msgid "General settings"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:264
+msgid "German"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:97
+msgid "Get license information"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:265
+msgid "Hebrew"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:266
+msgid "Hindi"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:279
+msgid "http://another-website.com/final-target-url"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:958
+msgid ""
+"If 'auto-update mode' is turned on, the 'Current URI' field will be "
+"automatically changed to 'Default URI' (displayed below) after the post is "
+"saved or updated."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:172
+msgid ""
+"If disabled, the custom permalinks <strong>will not be saved</strong> for "
+"the posts imported with WP All Import plugin."
+msgstr ""
+
+#: includes/core/link-sawing-third-parties.php:1021
+#, php-format
+msgid ""
+"If empty, a default permalink based on your current <a href=\"%s\" "
+"target=\"_blank\">permastructure settings</a> will be used."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:219
+msgid ""
+"If enabled only alphanumeric characters, underscores and dashes will be "
+"allowed for post/term slugs."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:159
+msgid ""
+"If enabled, all selected \"stop words\" will be automatically removed from "
+"default URIs."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:226
+msgid ""
+"If enabled, all the accented letters will be replaced with their non-"
+"accented equivalent (eg. Å => A, Æ => AE, Ø => O, Ć => C)."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:76
+msgid ""
+"If enabled, custom permalinks for posts marked as \"draft\" or \"pending\" "
+"will not be created."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:179
+msgid ""
+"If enabled, Link Sawing will detect the additional Ultimate Member "
+"pages (eg. \"account\" sections)."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:118
+msgid ""
+"If enabled, Link Sawing will save the \"extra redirect\" for earlier "
+"version of custom permalink after you change it (eg. with URI Editor or "
+"Regenerate/reset tool)."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:191
+msgid ""
+"If enabled, Link Sawing will use the \"primary category\" for the "
+"default post permalinks.<br />Works with: <strong>Yoast SEO, The SEO "
+"Framework, RankMath and SEOPress</strong>."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:185
+msgid ""
+"If enabled, the HTML breadcrumbs will be filtered by Link Sawing to "
+"mimic the current URL structure.<br />Works with: <strong>WooCommerce, Yoast "
+"SEO, Slim Seo, RankMath and SEOPress</strong> breadcrumbs."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:212
+msgid ""
+"If enabled, the non-existing pagination pages (for single posts) will return "
+"404 (\"Not Found\") error.<br /><strong>Please disable it, if you encounter "
+"any problems with pagination pages or use custom pagination system.</strong>"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:130
+msgid ""
+"If enabled, the query parameters will be copied to the target URL when the "
+"redirect is triggered."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:102
+msgid ""
+"If enabled, the visitors trying to access the URL with the old slug will be "
+"redirected to the canonical permalink."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:276
+msgid ""
+"If not empty, the visitors trying to access this page will be redirected to "
+"the URL specified below."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:189
+msgid ""
+"If selected, \"Custom Permalinks\" plugin will be deactivated after its "
+"custom URIs are imported."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:207
+msgid ""
+"If this option is enabled, any custom post types and taxonomies with the "
+"\"<strong>query_var</strong>\" and \"<strong>rewrite</strong>\" attributes "
+"set to \"<em>false</em>\" will be excluded from the plugin and hence will "
+"not be shown in the \"<em>General settings -> Exclude content types</em>\" "
+"options."
+msgstr ""
+
+
+
+#: includes/views/link-sawing-pro-addons.php:227
+msgid ""
+"If you would like to suggest a new functionality or leave us feedback, we "
+"are open to all new ideas and would be grateful for all your comments!"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:423
+msgid ""
+"If you would like to translate the permastructures and set-up different "
+"permalink structure per language, please fill in the fields below. Otherwise "
+"the permastructure set for default language (see field above) will be "
+"applied."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:201
+#, php-format
+msgid "Import %d URIs"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:223
+#: includes/views/link-sawing-tools.php:303
+msgid "Important notices"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-post.php:97
+msgid "Inherit (Attachment)"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:56
+msgid "Inherit parents' slugs"
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:128
+#: includes/views/link-sawing-pro-addons.php:158
+#: includes/views/link-sawing-pro-addons.php:194
+msgid "Instructions"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:267
+msgid "Italian"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:268
+msgid "Japanese"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:54
+msgid "kb"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:269
+msgid "Korean"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:90
+msgid "Licence"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:96
+msgid "Licence key"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:75
+msgid "List of custom redirects set-up by this plugin."
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:75
+msgid "List of duplicated permalinks"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:82
+msgid "List of external redirects set-up by this plugin."
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:89
+msgid "List of permastructures set-up by this plugin."
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:96
+msgid "List of plugin settings."
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:68
+msgid "List of the URIs generated by this plugin."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:763
+msgid "List of updated items"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:156
+msgid "Load the language variant of the requested page"
+msgstr ""
+
+
+
+
+#: includes/core/link-sawing-admin-functions.php:1013
+msgid "Manage redirects"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:163
+#: includes/views/link-sawing-tools.php:242
+msgid "Mode"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:966
+msgid "Native slug"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:168
+msgid "Native slugs"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:723
+#: includes/core/link-sawing-admin-functions.php:753
+msgid "New Slug"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:726
+#: includes/core/link-sawing-admin-functions.php:756
+msgid "New URI"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:238
+msgid "No"
+msgstr ""
+
+#: includes/core/link-sawing-third-parties.php:386
+msgid "No \"Custom Permalinks\" URIs were imported!"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:149
+msgid "No Custom URIs or Custom Redirects were removed!"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:206
+msgid "No custom URIs to import"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:225
+msgid "No, keep accented letters in the slugs"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:218
+msgid "No, keep special characters (.,|_+) in the slugs"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:270
+msgid "Norwegian"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:722
+#: includes/core/link-sawing-admin-functions.php:752
+msgid "Old Slug"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:100
+msgid "Old slug redirect"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:725
+#: includes/core/link-sawing-admin-functions.php:755
+msgid "Old URI"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:232
+#, php-format
+msgid ""
+"Only the users who have selected capability will be able to access URI "
+"Editor.<br />The list of capabilities <a href=\"%s\" target=\"_blank\">can "
+"be found here</a>."
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor.php:97
+msgid "Per page"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:24
+msgid "Permalink Duplicates"
+msgstr ""
+
+#: includes/core/link-sawing-third-parties.php:1016
+#: includes/core/link-sawing-third-parties.php:1244
+#: includes/core/link-sawing-gutenberg.php:42
+#: includes/core/link-sawing-admin-functions.php:112
+#: includes/core/link-sawing-admin-functions.php:112
+#: includes/core/link-sawing-admin-functions.php:823
+#: includes/core/link-sawing-admin-functions.php:930
+#: includes/core/link-sawing-admin-functions.php:935
+#: includes/core/link-sawing-admin-functions.php:936
+msgid "Link Sawing"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:124
+msgid ""
+"Link Sawing can force the trailing slashes settings in the custom "
+"permalinks with redirect."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:143
+msgid ""
+"Link Sawing includes a set of hooks that allow to extend the redirect "
+"functions used natively by WordPress to avoid 404 errors."
+msgstr ""
+
+#. Name of the plugin
+msgid "Link Sawing Pro"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:70
+msgid ""
+"Link Sawing will ignore and not filter the custom permalinks of all "
+"selected above post types & taxonomies."
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:533
+#: includes/core/link-sawing-actions.php:537
+#: includes/core/link-sawing-admin-functions.php:441
+msgid "Permastructure settings"
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:135
+msgid "Permastructure tags"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:423
+msgid "Permastructure translations"
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:21
+msgid "Permastructures"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:271
+msgid "Persian"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:136
+msgid "Please disable it if you encounter any redirect loop issues."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:165
+msgid ""
+"Please disable this feature if the language code in the custom permalinks is "
+"incorrect."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:110
+msgid ""
+"Please enable this option if you would like to manage additional custom "
+"redirects (aliases) in URI Editor for individual posts & terms."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:124
+msgid ""
+"Please go to \"<em>General settings -> Trailing slashes</em>\" to choose if "
+"trailing slashes should be added or removed from WordPress permalinks."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:64
+msgid ""
+"Please go to \"<em>Redirect settings -> Trailing slashes redirect</em>\" to "
+"force the trailing slashes mode with redirect."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:195
+msgid ""
+"Please note that \"Custom Permalinks\" (if activated) may break the behavior "
+"of this plugin."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:118
+msgid ""
+"Please note that the new redirects will be saved only if \"Extra redirects "
+"(aliases)\" option is turned on above."
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:161
+#, php-format
+msgid ""
+"Please paste the licence key to access all Link Sawing Pro updates & "
+"features <a href=\"%s\" target=\"_blank\">on this page</a>."
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:272
+msgid "Polish"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:273
+msgid "Portuguese"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-post.php:136
+msgid "Post status"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor.php:102
+msgid "Post statuses"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-post.php:62
+msgid "Post title"
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:46
+#: includes/views/link-sawing-tools.php:179
+#: includes/views/link-sawing-tools.php:259
+#: includes/core/link-sawing-admin-functions.php:281
+msgid "Post types"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:140
+msgid "Redirect mode"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:81
+msgid "Redirect settings"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:276
+msgid "Redirect this page to external URL"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:156
+msgid "Redirect to the language variant of the requested page"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:128
+msgid "Redirect with query parameters"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:306
+msgid "Regenerate"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:246
+msgid "Regenerate custom permalinks"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:247
+msgid "Regenerate native slugs"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:32
+msgid "Regenerate/Reset"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:97
+msgid "Reload the expiration date"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:68
+msgid "Remove all custom permalinks"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:75
+msgid "Remove all custom redirects"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:82
+msgid "Remove all external redirects"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:89
+msgid "Remove all permastructures settings"
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:96
+msgid "Remove all plugin settings"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:130
+msgid "Remove all words"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:106
+#: includes/views/link-sawing-tools.php:118
+msgid "Remove broken URI"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:63
+msgid "Remove trailing slashes"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:157
+msgid "Replace with ..."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:438
+msgid "Restore default permastructure"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:971
+msgid "Restore Default URI"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:274
+msgid "Russian"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:253
+msgid "sample/custom-uri"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:162
+msgid "Save"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:144
+#: includes/views/link-sawing-uri-editor-post.php:160
+msgid "Save all the URIs above"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:143
+#: includes/views/link-sawing-uri-editor-post.php:159
+msgid "Save all the URIs below"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:114
+msgid "Save old custom permalinks as extra redirects"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:987
+msgid "Save permalink"
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:139
+msgid "Save permastructures"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:245
+msgid "Save settings"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:152
+#: includes/views/link-sawing-uri-editor-post.php:167
+msgid "Search"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:304
+msgid "Select all"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:172
+#: includes/views/link-sawing-tools.php:252
+msgid "Select content type"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:213
+#: includes/views/link-sawing-tools.php:293
+msgid "Select IDs"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:204
+#: includes/views/link-sawing-tools.php:284
+msgid "Select post statuses"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:184
+#: includes/views/link-sawing-tools.php:264
+msgid "Select post types"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:193
+#: includes/views/link-sawing-tools.php:273
+msgid "Select taxonomies"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:21
+#: includes/core/link-sawing-admin-functions.php:166
+msgid "Settings"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:202
+msgid "Show \"Native slug\" field in URI Editor"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:446
+msgid "Show additional settings"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:730
+msgid "Show more details"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:98
+#: includes/views/link-sawing-uri-editor-post.php:135
+msgid "Slug"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:54
+msgid "Slugs mode"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:275
+msgid "Spanish"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:36
+msgid "Stop Words"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:216
+msgid "Strip special characters"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:226
+msgid "Suggestions/feedback"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:66
+msgid "Support"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:276
+msgid "Swedish"
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:51
+#: includes/views/link-sawing-tools.php:180
+#: includes/views/link-sawing-tools.php:260
+#: includes/core/link-sawing-admin-functions.php:281
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:221
+msgid "Technical support"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:57
+msgid "Term title"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:117
+#: includes/views/link-sawing-uri-editor-post.php:118
+msgid ""
+"The above permalink will be automatically updated and is locked for editing."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:897
+#, php-format
+msgid ""
+"The custom permalink cannot be edited due to the <a href=\"%s\" "
+"target=\"_blank\">Link Sawing settings</a> (\"<strong>Exclude drafts & "
+"pending posts</strong>\") and the post status not allowing it."
+msgstr ""
+
+#: includes/views/link-sawing-debug.php:59
+msgid "The custom permalinks array has not been stored in the database yet."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:947
+msgid "The custom URI cannot be edited on frontpage."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:966
+msgid ""
+"The native slug is by default automatically used in native permalinks (when "
+"Link Sawing is disabled)."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:57
+msgid ""
+"The native slug is generated from the initial title after the post or term "
+"is published."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:158
+msgid ""
+"The plugin may load the relevant translation or trigger the canonical "
+"redirect when a custom permalink is detected, but the URL language code does "
+"not match the detected item's language code. "
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:394
+msgid "The redirect was removed successfully!"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:448
+msgid "The settings are saved!"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:611
+msgid ""
+"The URIs are case-insensitive, eg. <strong>BLACKFRIDAY</strong> and <strong>"
+"blackfriday</strong> are equivalent."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:950
+msgid ""
+"The URL above is displayed in read-only mode. To enable editing, change the "
+"\"<strong>URI update mode</strong>\" to <em>Don't auto-update \"Current "
+"URI\"</em>."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:196
+msgid ""
+"Therefore, it is recommended to disable \"Custom Permalink\" and import old "
+"permalinks before using Link Sawing Pro."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:148
+msgid "Third party plugins"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:89
+msgid ""
+"This feature will be also used to redirect (old) original permalinks to (new)"
+" custom permalinks set with Link Sawing."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:1130
+#, php-format
+msgid ""
+"This functionality is available only in <a href=\"%s\" target=\"_blank\">"
+"Link Sawing Pro</a>."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:64
+msgid ""
+"This option can be used to alter the native settings and control if trailing "
+"slash should be added or removed from the end of posts & terms permalinks."
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:720
+#: includes/core/link-sawing-admin-functions.php:749
+msgid "Title"
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:132
+#, php-format
+msgid ""
+"To apply the <strong>new format to existing posts and terms</strong>, please "
+"use \"<a href=\"%s\">Regenerate/reset</a>\" tool after you update the "
+"permastructure settings below."
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:39
+#, php-format
+msgid ""
+"To edit taxonomy permalinks, <a href=\"%s\" target=\"_blank\">Permalink "
+"Manager Pro</a> is required."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:222
+#, php-format
+msgid ""
+"To find the answers on frequently asked questions and information about how "
+"to deal with the most common issues please go to the <strong>Knowledge "
+"Base</strong> using <a target=\"_blank\" href=\"%s\">this link</a>."
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:217
+#: includes/views/link-sawing-tools.php:297
+msgid ""
+"To narrow the above filters you can type the post IDs (or ranges) here. Eg. "
+"<strong>1-8, 10, 25</strong>."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:224
+msgid ""
+"To reduce the response time, please attach your licence key and if possible "
+"also: URL address of your website and screenshots explaining the issue."
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:21
+msgid "Tools"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:61
+msgid "Trailing slashes"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:122
+msgid "Trailing slashes redirect"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:277
+msgid "Turkish"
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:243
+msgid ""
+"Turn on \"<strong>Extra redirects (aliases)</strong>\" in Link Sawing "
+"settings to enable this feature."
+msgstr ""
+
+#: includes/views/link-sawing-pro-addons.php:150
+msgid "Type comma to separate the words."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:176
+msgid "Ultimate Member support"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:305
+msgid "Unselect all"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:647
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:356
+#, php-format
+msgid "URI \"%s\" was removed successfully!"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:368
+msgid "URI and/or custom redirects does not exist or were already removed!"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor.php:23
+#: includes/core/link-sawing-admin-functions.php:165
+msgid "ویرایش آدرس ها"
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-post.php:115
+msgid ""
+"URI Editor disabled due to \"Exclude drafts & pending posts\" setting and "
+"the post status."
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:120
+#: includes/views/link-sawing-uri-editor-post.php:121
+msgid "URI Editor disabled due to \"URI update mode\" setting."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:230
+msgid "URI Editor role capability"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:725
+msgid "URI is already in use, please select another one!"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:47
+#: includes/core/link-sawing-admin-functions.php:958
+msgid "URI update mode"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:56
+msgid "Use actual titles as slugs"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:63
+msgid "Use default settings"
+msgstr ""
+
+#: includes/core/link-sawing-admin-functions.php:915
+#, php-format
+msgid "Use global settings [%s]"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:56
+msgid "Use native slugs"
+msgstr ""
+
+#: includes/views/link-sawing-tools.php:248
+msgid "Use original URLs as custom permalinks"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:57
+msgid ""
+"Use this field if you would like Link Sawing to use the actual titles "
+"instead of native slugs."
+msgstr ""
+
+#: includes/views/link-sawing-uri-editor-tax.php:104
+#: includes/views/link-sawing-uri-editor-post.php:142
+#: includes/views/link-sawing-uri-editor-post.php:142
+msgid "View"
+msgstr ""
+
+#: includes/views/link-sawing-permastructs.php:61
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:169
+msgid "WP All Import/Export support"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:162
+msgid "WPML compatibility functions"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:154
+msgid "WPML/Polylang fix language mismatch"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:218
+#: includes/views/link-sawing-settings.php:225
+msgid "Yes, use native settings"
+msgstr ""
+
+#: includes/core/link-sawing-actions.php:81
+#: includes/core/link-sawing-actions.php:515
+msgid "You are not allowed to remove Link Sawing data!"
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:143
+msgid ""
+"You can disable this feature if you do not want Link Sawing to trigger "
+"any additional redirect functions at all."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:110
+msgid ""
+"You can disable this feature if you use another plugin to control the "
+"redirects, eg. Yoast SEO Premium or Redirection."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:64
+msgid ""
+"You can use this feature to either add or remove the slashes from end of "
+"WordPress permalinks."
+msgstr ""
+
+#: includes/views/link-sawing-settings.php:50
+msgid ""
+"You may override the global settings in the URI Editor by selecting a "
+"different setting for each post or term individually."
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:178
+msgid "You own a lifetime licence key."
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:189
+#, php-format
+msgid ""
+"Your licence key is valid until %s.<br />To prolong it please go to <a "
+"href=\"%s\" target=\"_blank\">this page</a> for more information."
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:169
+#, php-format
+msgid ""
+"Your Link Sawing Pro licence key expired! Please renew your license "
+"key using <a href=\"%s\" target=\"_blank\">this link</a> to regain access to "
+"plugin updates and technical support."
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:165
+msgid "Your Link Sawing Pro licence key is invalid!"
+msgstr ""
+
+#: includes/core/link-sawing-pro-functions.php:173
+msgid ""
+"Your Link Sawing Pro license is already in use on another website and "
+"cannot be used to request automatic update for this domain."
+msgstr ""
